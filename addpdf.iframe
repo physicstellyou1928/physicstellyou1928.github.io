@@ -11,8 +11,7 @@
         <textarea rows="4" cols="82">
  <iframe src="https://physicstllyou1928.github.io/CV.pdf" width="600" height="500"></iframe>
  <iframe src="https://physicstllyou1928.github.io/lec2.pdf" width="600" height="500"></iframe>
- //注意只要在physicstllyou1928.github.io这个库下的pdf都可以https://physicstllyou1928.github.io/pdf名.pdf的形式就可以添加网址为https://physicstllyou1928.github.io/pdf名.pdf的
- //pdf在线下载了
+ 
         </textarea>
     </div>
     
